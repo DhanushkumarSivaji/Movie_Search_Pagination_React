@@ -1,0 +1,48 @@
+.navbar-dark .navbar-brand {
+  color:white!important;
+}
+
+.searchform {
+  width: 70%;
+}
+.searchform.form-inline .form-control{
+  width: 100%;
+}
+
+.product-img{
+  margin: 10px;
+}
+
+.card-header {
+  padding: .75rem 1.25rem;
+  margin-bottom: 0;
+  color: white;
+  background-color: #141313;
+  border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.loadingtext{text-align: center;}
+
+.card-header {
+  padding: .75rem 1.25rem;
+  margin-bottom: 0;
+  color: white;
+  background-color: #e9ecef;
+  border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+
+.dataLoader{
+  color: #fff;
+  background-color: #343a40;
+  border-color: #343a40;
+}
+
+.dataLoader:hover{
+  background-color: #343a40;
+  border-color: #343a40;
+}
+
+.verticalTab{
+  margin-top: 50px;
+}
